@@ -1,0 +1,197 @@
+[{
+  "_id": {
+    "$oid": "6057fbfe8f5f051d99740fea"
+  },
+  "_recInfo": {
+    "isDeleted": false,
+    "updatedAt": {
+      "$date": "2021-03-22T02:07:58.358Z"
+    },
+    "createdAt": {
+      "$date": "2021-03-22T02:07:58.358Z"
+    }
+  },
+  "regions": [
+    "AB",
+    "Alberta",
+    "BC",
+    "British Columbia",
+    "MB",
+    "Manitoba",
+    "NT",
+    "Northwest Territories",
+    "NV",
+    "Nunavut",
+    "QC",
+    "Quebec",
+    "SK",
+    "Saskatchewan",
+    "YK",
+    "Yukon"
+  ],
+  "priority": 0,
+  "status": "active",
+  "name": "GST",
+  "code": "GST",
+  "country": {
+    "$oid": "601f368a976dce61c8ae373a"
+  },
+  "rate": 0.05,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6057fbfe8f5f051d99740feb"
+  },
+  "_recInfo": {
+    "isDeleted": false,
+    "updatedAt": {
+      "$date": "2021-03-22T02:07:58.399Z"
+    },
+    "createdAt": {
+      "$date": "2021-03-22T02:07:58.399Z"
+    }
+  },
+  "regions": [
+    "NB",
+    "New Brunswick"
+  ],
+  "priority": 1,
+  "status": "active",
+  "name": "HST",
+  "code": "HST-NB",
+  "country": {
+    "$oid": "601f368a976dce61c8ae373a"
+  },
+  "rate": 0.15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6057fbfe8f5f051d99740fec"
+  },
+  "_recInfo": {
+    "isDeleted": false,
+    "updatedAt": {
+      "$date": "2021-03-22T02:07:58.405Z"
+    },
+    "createdAt": {
+      "$date": "2021-03-22T02:07:58.405Z"
+    }
+  },
+  "regions": [
+    "NL",
+    "Newfoundland"
+  ],
+  "priority": 1,
+  "status": "active",
+  "name": "HST",
+  "code": "HST-NL",
+  "country": {
+    "$oid": "601f368a976dce61c8ae373a"
+  },
+  "rate": 0.15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6057fbfe8f5f051d99740fed"
+  },
+  "_recInfo": {
+    "isDeleted": false,
+    "updatedAt": {
+      "$date": "2021-03-22T02:07:58.411Z"
+    },
+    "createdAt": {
+      "$date": "2021-03-22T02:07:58.411Z"
+    }
+  },
+  "regions": [
+    "NS",
+    "Nova Scotia"
+  ],
+  "priority": 1,
+  "status": "active",
+  "name": "HST",
+  "code": "HST-NS",
+  "country": {
+    "$oid": "601f368a976dce61c8ae373a"
+  },
+  "rate": 0.15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6057fbfe8f5f051d99740fef"
+  },
+  "_recInfo": {
+    "isDeleted": false,
+    "updatedAt": {
+      "$date": "2021-03-22T02:07:58.420Z"
+    },
+    "createdAt": {
+      "$date": "2021-03-22T02:07:58.420Z"
+    }
+  },
+  "regions": [
+    "PE",
+    "Prince Edward Island"
+  ],
+  "priority": 1,
+  "status": "active",
+  "name": "HST",
+  "code": "HST-PEI",
+  "country": {
+    "$oid": "601f368a976dce61c8ae373a"
+  },
+  "rate": 0.15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6057fbfe8f5f051d99740fee"
+  },
+  "_recInfo": {
+    "isDeleted": false,
+    "updatedAt": {
+      "$date": "2021-03-22T02:07:58.415Z"
+    },
+    "createdAt": {
+      "$date": "2021-03-22T02:07:58.415Z"
+    }
+  },
+  "regions": [
+    "ON",
+    "Ontario"
+  ],
+  "priority": 1,
+  "status": "active",
+  "name": "HST",
+  "code": "HST-ON",
+  "country": {
+    "$oid": "601f368a976dce61c8ae373a"
+  },
+  "rate": 0.13,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6057fbfe8f5f051d99740ff0"
+  },
+  "_recInfo": {
+    "isDeleted": false,
+    "updatedAt": {
+      "$date": "2021-03-22T02:07:58.425Z"
+    },
+    "createdAt": {
+      "$date": "2021-03-22T02:07:58.425Z"
+    }
+  },
+  "regions": [
+    "QC",
+    "Quebec"
+  ],
+  "priority": 1,
+  "status": "active",
+  "name": "QST",
+  "code": "QST",
+  "country": {
+    "$oid": "601f368a976dce61c8ae373a"
+  },
+  "rate": 0.0975,
+  "__v": 0
+}]
